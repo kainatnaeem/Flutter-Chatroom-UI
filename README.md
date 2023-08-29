@@ -1,4 +1,8 @@
-# chat_room
+# ChatRoom UI FLutter
+
+
+https://github.com/kainatnaeem/Flutter-Chatroom-UI/assets/54583829/0b9a6d0c-3a39-4ece-b655-1ac654b77e5c
+
 
 A new Flutter project.
 
